@@ -1,1 +1,1 @@
-# Diffusion-Model
+# GAN and Diffusion-Model
